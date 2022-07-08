@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Invalid credentials</name>
+   <tag></tag>
+   <elementGuidId>1922a450-700c-4233-80b6-5c6f251cef64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'spanMessage' and (text() = 'Invalid credentials' or . = 'Invalid credentials')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#spanMessage</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='spanMessage']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d8283d03-cddf-4eea-a00b-7d8ba46e264c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>spanMessage</value>
+      <webElementGuid>91790bab-ecd3-4f92-b253-25c3e38307c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invalid credentials</value>
+      <webElementGuid>71f0e5f0-6ca6-4461-a311-28f485e2ad12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;spanMessage&quot;)</value>
+      <webElementGuid>7d16bfc4-4bc7-4752-8c74-2b390cd95653</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='spanMessage']</value>
+      <webElementGuid>182b42d9-2198-4d41-98df-7ac1772cf2b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divLoginButton']/span</value>
+      <webElementGuid>1a6e353b-a079-40dc-9555-4d09c52fed7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::span[1]</value>
+      <webElementGuid>0e04c878-63fc-4bef-a43e-0435d89fdf56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::span[2]</value>
+      <webElementGuid>1094c0cf-e980-43da-8864-efc33006e6c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot your password?'])[1]/preceding::span[1]</value>
+      <webElementGuid>d9f59eb9-656e-4ca9-86de-d4355f8e2a4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Invalid credentials']/parent::*</value>
+      <webElementGuid>23156f7e-35f8-4dcb-ad3b-a307a6825504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/span</value>
+      <webElementGuid>8b6816f1-85f0-4d15-a101-7520e3948dec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'spanMessage' and (text() = 'Invalid credentials' or . = 'Invalid credentials')]</value>
+      <webElementGuid>301f1e0f-0567-47f5-b935-31ca0586ec3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

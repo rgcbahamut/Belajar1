@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Username cannot be empty</name>
+   <tag></tag>
+   <elementGuidId>1614035a-3986-4af6-9b17-4657a9eac827</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'spanMessage' and (text() = 'Username cannot be empty' or . = 'Username cannot be empty')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#spanMessage</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='spanMessage']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3876cada-046e-47ac-b145-37edf6997288</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>spanMessage</value>
+      <webElementGuid>2633824d-07ce-42bd-a9e4-0fee82bdbb19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Username cannot be empty</value>
+      <webElementGuid>59cc5178-4bcc-479c-b8e2-af225bea1b66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;spanMessage&quot;)</value>
+      <webElementGuid>e37991a2-8062-49c5-b161-76fd9272ee1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='spanMessage']</value>
+      <webElementGuid>8b98e31b-faa8-4d2c-ba2d-04c9254f9a78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divLoginButton']/span</value>
+      <webElementGuid>148207b2-25e2-41fc-a4b0-efdac434d073</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::span[1]</value>
+      <webElementGuid>85aea3e4-3802-4c3b-ae8d-57dc4a33026d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::span[2]</value>
+      <webElementGuid>6c621368-0f6d-45c6-b562-c30752ae747d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot your password?'])[1]/preceding::span[1]</value>
+      <webElementGuid>8e35c3c9-105c-42aa-b201-2ba931f72c5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Username cannot be empty']/parent::*</value>
+      <webElementGuid>b697b83c-ff45-4732-acb0-425939a287f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/span</value>
+      <webElementGuid>d4df6a29-8670-4be0-a8df-0b74b464f0b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'spanMessage' and (text() = 'Username cannot be empty' or . = 'Username cannot be empty')]</value>
+      <webElementGuid>57431013-51d0-4b71-90fe-146a6824d475</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

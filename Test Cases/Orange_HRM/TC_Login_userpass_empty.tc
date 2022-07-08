@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Login_userpass_empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fadcf9f1-1a22-4cd2-bd52-0c2d25888e0f</testCaseGuid>
+</TestCaseEntity>
